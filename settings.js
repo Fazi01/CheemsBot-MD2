@@ -21,11 +21,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6288271609722']
+global.owner = ['088298797868']
 global.premium = ['6288271609722']
-global.ownernomer = '6288271609722'
-global.ownername = 'Fazi'
-global.botname = 'Fzii'
+global.ownernomer = '088298797868'
+global.ownername = 'Nendra'
+global.botname = 'nendraTYZbotz'
 global.footer = 'Xeon Bot Inc.'
 global.ig = 'https://github.com/DGXeon'
 global.region = 'India, NorthEast, Mizoram'
